@@ -13,7 +13,7 @@ function Projects() {
       </div>
       <div className="project-card">
         <h3>Project 2</h3>
-        <p>React project.np</p>
+        <p>React project.</p>
         <a href="https://github.com/dega086/React-mini-project.git" target="_blank" rel="noopener noreferrer">
           View Project
         </a>
